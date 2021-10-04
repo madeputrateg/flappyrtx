@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+#cobak {
+  height: 100%;
+  width: 100%;
+}
+#ke0 {
+  color: blue;
+}
+canvas {
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+#score {
+  font-size: 100px;
+  left: 50%;
+  top: 20%;
+  transform: translate(-0%, -50%);
+  position: absolute;
+}
